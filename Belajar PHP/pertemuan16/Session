@@ -1,0 +1,10 @@
+Session : 
+Mekanisme penyimpanan informasi ke dalam sebauh varaibel agar bisa digunakan lebih dari satu halaman
+
+
+data nya bisa lebih dari satu halaman di semua halaman
+infromasi pada session di simpan di server
+erat kaitannya dengan cookie : disimpan di client di dalam browser
+
+Mekanisme Session akan di tangani oleh varibale global $_SESSION
+Syarat : jalankan sebuah fungsion session_start sebelum syntax html

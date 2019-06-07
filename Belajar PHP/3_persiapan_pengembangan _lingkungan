@@ -1,0 +1,11 @@
+Persiapan Lingkungan Pengembangan
+Untuk mebuat website dengan PHP tidak semudah seperti membuat website menggunakan HTML, CSS
+
+Client Side 
+- HTML, CSS , Javascript : semua pemrosean terjadi di sisi Client
+
+Server Side Scripting : 
+Browser mengirimkan sebuah request ke server 
+Bahasa pemrograman yang bekerja di server : PHP, PPython, Ruby,
+PHP : semua pemrosesan terjadi di server
+Script 

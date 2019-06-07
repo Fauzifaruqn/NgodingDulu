@@ -1,0 +1,21 @@
+Dibuat Oleh : Rasmus Lerdoorf 
+pada tahun 1994
+diawal untuk mengelola website pribadi pakai C++, 
+jadi awalnya PHP = Personal Home Page
+Program yang dibuat untuk dirinya jadi program open source dan membuat PHP Tools -> 1995
+
+Perkembangan 
+- Membuat parser : membaca sintaks PHP -> Zeev Suraski & Andi pada tahun 1998 menjadi PHP :Hypertext Processor
+
+- PHP Version 5 : banyak fitur fitur dana fungsionalitas2 kedalam library , bisa melakukan OOP , PDO (untuk mengelola database)
+
+2008 : PHP 4 berhenti dikembangkan 
+PHP 6 : ditundam , pada akhir digagalkan 
+
+
+Karakteristik Bahasa PHP1
+1. ektension file .PHP
+2. ditulis didalam tag php (delimeter /pembatas) 
+diwali : <? , diakhir ?>
+3. bisa digunakan bersamaan HTML
+4. Mengikuti Bahasa C 
